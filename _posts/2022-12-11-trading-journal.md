@@ -2,6 +2,7 @@
 layout: post
 title: 20221212 Trading Journal 
 subtitle: 
+datatable: true
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
@@ -10,7 +11,7 @@ tags: [books, test]
 
 ## Morning Work
 
-**H-E**
+**HE**
 
 <div class="datatable-begin"></div>
 
