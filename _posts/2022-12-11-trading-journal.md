@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 20221212 Trading Journal 
+title: 2022-12-12 Trading Journal 
 subtitle: 
 datatable: true
 cover-img: /assets/img/path.jpg
@@ -50,3 +50,29 @@ tags: [books, test]
 
 
 <div class="datatable-end"></div>
+
+**Key Levels**
+
+PDO:
+PDH:
+PDL:
+PDC:
+
+ONH:
+ONL:
+
+4408 - CW
+4208 - Major Overhead Resistance
+4110 - 12/1 high
+4107 - ZG
+4093.5 - Nov 2022 High
+4042.50 - Balance High
+4008 - Vol trigger
+3976.5 - 12/6 B Single Prints Fill
+3938.75 - Balance Low
+3921.5 - Prev Low
+3771 11/10 - CPI Gap - 0 Volume
+3767 - 11/10 Gap Fill
+3708 - PW
+
+
