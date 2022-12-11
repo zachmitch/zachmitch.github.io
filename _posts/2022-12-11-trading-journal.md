@@ -12,6 +12,12 @@ tags: [books, test]
 
 ## Morning Work
 
+**Portfolio**
+
+Beta: -0.75
+Major positions:  <span style="color:green">PLBY, WMT, MSOS</span><span style="color:red">MPW, TGT, META</span>
+Thoughts:  Considering MPW's issues, Big FED and options week - expecting a major increase in volatility at some point between now and end of 1H23.  Wondering if daily 0DTE options expiring everyday now causes a new trend in the market, how it would manifest.
+
 **HE**
 
 
@@ -53,7 +59,7 @@ tags: [books, test]
 
 **Key Levels**
 
-PDO:
+PDO:  
 PDH:
 PDL:
 PDC:
