@@ -16,7 +16,7 @@ tags: [books, test]
 
 Beta: -0.75
 
-Major positions:  <span style="color:green">PLBY, WMT, MSOS</span><span style="color:red">MPW, TGT, META</span>
+Major positions:  <span style="color:green">PLBY, WMT, MSOS</span><span style="color:red"> \tMPW, TGT, META</span>
 
 Thoughts:  Considering MPW's issues, Big FED and options week - expecting a major increase in volatility at some point between now and end of 1H23.  Wondering if daily 0DTE options expiring everyday now causes a new trend in the market, how it would manifest.
 
@@ -61,26 +61,42 @@ Thoughts:  Considering MPW's issues, Big FED and options week - expecting a majo
 
 **Key Levels**
 
-PDO:  
+PDO:
+
 PDH:
+
 PDL:
+
 PDC:
 
 ONH:
+
 ONL:
 
 4408 - CW
+
 4208 - Major Overhead Resistance
+
 4110 - 12/1 high
+
 4107 - ZG
+
 4093.5 - Nov 2022 High
+
 4042.50 - Balance High
+
 4008 - Vol trigger
+
 3976.5 - 12/6 B Single Prints Fill
+
 3938.75 - Balance Low
+
 3921.5 - Prev Low
+
 3771 11/10 - CPI Gap - 0 Volume
+
 3767 - 11/10 Gap Fill
+
 3708 - PW
 
 
