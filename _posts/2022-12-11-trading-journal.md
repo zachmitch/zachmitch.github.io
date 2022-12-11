@@ -8,12 +8,19 @@ thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
+<script>
+$(document).ready(function () {
+  $("#my-table > table").DataTable();
+});
+</script>
 
 ## Morning Work
 
 **HE**
 
+
 <div class="datatable-begin"></div>
+<div id="my-table">
 
 | TICKER | RANGE | CLOSE | UPSIDE | DOWNSIDE | U/D | RANK |
 | <span style="color:red">UST30Y</span>	| 3.82-3.39 | 3.42 | -0.029999999999999805 | 0.3999999999999999 | 0.0 | 29 |
@@ -45,5 +52,5 @@ tags: [books, test]
 | <span style="color:red">MSFT</span>	| 235.0-255.0 | 244.0 | 11.0 | -9.0 | 1.2 | 16 |
 | <span style="color:red">AAPL</span>	| 137.0-148.0 | 140.0 | 8.0 | -3.0 | 2.6 | 7 |
 | <span style="color:red">AMZN</span>	| 86.0-96.0 | 88.0 | 8.0 | -2.0 | 4. | 4 |
-
+</div>
 <div class="datatable-end"></div>
