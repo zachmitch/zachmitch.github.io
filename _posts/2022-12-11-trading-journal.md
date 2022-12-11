@@ -12,6 +12,8 @@ tags: [books, test]
 
 **HE**
 
+<div class="datatable-begin"></div>
+
 | TICKER | RANGE | CLOSE | UPSIDE | DOWNSIDE | U/D | RANK |
 | <span style="color:red">UST30Y</span>	| 3.82-3.39 | 3.42 | -0.029999999999999805 | 0.3999999999999999 | 0.0 | 29 |
 | <span style="color:red">UST10Y</span>	| 3.79-3.37 | 3.42 | -0.04999999999999982 | 0.3700000000000001 | 0.1 | 28 |
@@ -42,3 +44,5 @@ tags: [books, test]
 | <span style="color:red">MSFT</span>	| 235.0-255.0 | 244.0 | 11.0 | -9.0 | 1.2 | 16 |
 | <span style="color:red">AAPL</span>	| 137.0-148.0 | 140.0 | 8.0 | -3.0 | 2.6 | 7 |
 | <span style="color:red">AMZN</span>	| 86.0-96.0 | 88.0 | 8.0 | -2.0 | 4. | 4 |
+
+<div class="datatable-end"></div>
