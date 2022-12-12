@@ -121,8 +121,8 @@ Ivol/Rvol Premium Discount Top/Bottom:
 | Close | Meta | 20 | short cover | - | - | - | + 1.76% | A |
 | Close | TGT | 50 | short cover | - | - | - | + 2.48% | B |
 | Close | WMT 125C Jan | 1 | call | - | - | - | + 80$ | - |
-
+| Open | OSTK | 10 | long | 22.44 | - | LT inc. position + | - | - |
 
 Thoughts:
 
-Very choppy morning with no real follow through either way.  Volume low.  I cleaned up a little on the short side where I was up.  Pair trade WMT/TGT working out very well.  Done early today as I have things to do.  About +$260 realized.  MSOS sucking bad, but SPX Beta weighted ~ -0.54 as I raise more cash, hopefully setup to weather this week even.
+Very choppy morning with no real follow through either way.  Volume low.  I cleaned up a little on the short side where I was up.  Pair trade WMT/TGT working out very well.  Done early today as I have things to do.  About +$260 realized.  MSOS sucking bad, but SPX Beta weighted ~ -0.31 as I raise more cash, hopefully setup to weather this week even.
