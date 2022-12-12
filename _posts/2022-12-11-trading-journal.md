@@ -119,9 +119,10 @@ Ivol/Rvol Premium Discount Top/Bottom:
 | RT | SPY 493p 2DTE | 1 | put | - | - | - | - $10 | A |
 | RT | SPY 493p 2DTE | 1 | put | - | - | - | + $4 | A |
 | Close | Meta | 20 | short cover | - | - | - | + 1.76% | A |
-| Close | TGT | 15 | short cover | - | - | - | + 2.48% | B |
+| Close | TGT | 50 | short cover | - | - | - | + 2.48% | B |
+| Close | WMT 125C Jan | 1 | call | - | - | - | + 80$ | - |
 
 
 Thoughts:
 
-Very choppy morning with no real follow through either way.  Volume low.  I cleaned up a little on the short side where I was up.  Pair trade WMT/TGT working out very well.  Done early today as I have things to do.  ~ +$85 realized.  MSOS sucking bad, but SPX Beta weighted ~ -0.08 as I leave, hopefully setup to weather this week.
+Very choppy morning with no real follow through either way.  Volume low.  I cleaned up a little on the short side where I was up.  Pair trade WMT/TGT working out very well.  Done early today as I have things to do.  About +$260 realized.  MSOS sucking bad, but SPX Beta weighted ~ -0.54 as I raise more cash, hopefully setup to weather this week even.
