@@ -14,13 +14,28 @@ tags: [books, test]
 
 **Portfolio**
 
-SPX Beta: -0.75
+Beta weighted to SPX: -0.72
 
-USD: 50%
+USD: 19%
 
 Major positions:  <span style="color:green">PLBY, WMT, MSOS</span><span style="color:red">  MPW, TGT, META</span>
 
-Thoughts:  Considering MPW's tenant issues, Big FED and options week - expecting a major increase in volatility at some point between now and end of 1H23.  Wondering if daily 0DTE options expiring everyday now causes a new trend in the market, how it would manifest.  
+Thoughts:  
+
+This week I'm considering MPW's tenant issues and a big FED/options week as we setup for EOY.  I wouldn't be surprised if there's a major increase in volatility at some point between now and end of 1H23. Expecting a big move, but no idea which way first.  Bonds especially.  Wondering if daily 0DTE options expiring everyday now causes a new trend in the market, wonder how it would manifest -- in volatility based strategies especially.  Also, MSOs may get another chance at legalization in the lame duck, whether true -- I think that's what the news/fintwit will push. 
+
+Today, it looks like a Euro short, USD long would be the high likelihood move.  USD and Euro 1yr z-score are -2.04x and 2.35x respectively.  Will look to put dollars into UUP or FXE puts dated in March-ish.  Bonds look like they could drop bigly, leading to rate-sensitive stuff dropping too - XLRE, GOLD, TLT, XLK, etc.
+
+ES - poor low in the overnight (3956), would expect longs to step in there
+
+**Key Events Today**
+
+| Time (PST) | Event | 
+| 8:00AM | NY Fed 1-year inflation expectations |
+| 8:00AM | NY Fed 5-year inflation expectations |
+| 11:00AM | Federal budget |
+| All Day | ES contract rollover |
+
 
 **HE**
 
@@ -28,93 +43,85 @@ Thoughts:  Considering MPW's tenant issues, Big FED and options week - expecting
 <div class="datatable-begin"></div>
 
 | TICKER | RANGE | CLOSE | UPSIDE | DOWNSIDE | U/D | RANK |
-| <span style="color:red">UST30Y</span>	| 3.32-3.79 | 3.44 | 0.35 | -0.12 | 2.9 | 3 |
-| <span style="color:red">UST10Y</span>	| 3.35-3.79 | 3.48 | 0.31 | -0.13 | 2.3 | 5 |
-| <span style="color:green">UST2Y</span>	| 4.2-4.54 | 4.31 | 0.23 | -0.11 | 2.0 | 7 |
-| <span style="color:red">HYG</span>	| 73.45-75.71 | 75.04 | 0.67 | -1.59 | 0.4 | 29 |
-| <span style="color:red">SPX</span>	| 3863.0-4074.0 | 3963.0 | 111.0 | -100.0 | 1.1 | 15 |
-| <span style="color:red">COMPQ</span>	| 10713.0-11399.0 | 11082.0 | 317.0 | -369.0 | 0.8 | 17 |
-| <span style="color:red">RUT</span>	| 1767.0-1889.0 | 1818.0 | 71.0 | -51.0 | 1.3 | 12 |
-| <span style="color:red">XLK</span>	| 126.0-135.0 | 131.0 | 4.0 | -5.0 | 0. | 21 |
-| <span style="color:green">XLP</span>	| 75.07-77.58 | 76.48 | 1.1 | -1.41 | 0.7 | 22 |
-| <span style="color:green">XLV</span>	| 135.0-142.0 | 139.0 | 3.0 | -4.0 | 0.7 | 23 |
-| <span style="color:green">ITA</span>	| 108.0-114.0 | 111.0 | 3.0 | -3.0 | 1. | 16 |
-| <span style="color:green">XLU</span>	| 69.21-72.16 | 71.2 | 0.96 | -1.99 | 0.4 | 28 |
-| <span style="color:grey">SSEC</span>	| 3078.0-3251.0 | 3206.0 | 45.0 | -128.0 | 0.3 | 31 |
-| <span style="color:green">NIKK</span>	| 27500.0-28408.0 | 27901.0 | 507.0 | -401.0 | 1.2 | 13 |
-| <span style="color:red">DAX</span>	| 14100.0-14570.0 | 14264.0 | 306.0 | -164.0 | 1.8 | 8 |
-| <span style="color:green">VIX</span>	| 19.0-25.01 | 22.29 | 2.72 | -3.29 | 0.8 | 20 |
-| <span style="color:green">USD</span>	| 104.01-108.25 | 104.76 | 3.49 | -0.75 | 4.6 | 2 |
-| <span style="color:red">EUR/USD</span>	| 1.017-1.06 | 1.056 | 0.0 | -0.04 | 0. | 34 |
-| <span style="color:green">USD/JPY</span>	| 134.03-140.8 | 136.63 | 4.17 | -2.6 | 1. | 9 |
-| <span style="color:red">GBP/USD</span>	| 1.176-1.236 | 1.22 | 0.02 | -0.04 | 0.3 | 30 |
-| <span style="color:red">CAD/USD</span>	| 0.727-0.749 | 0.736 | 0.01 | -0.01 | 1.4 | 10 |
-| <span style="color:red">WTIC</span>	| 70.03-80.38 | 71.46 | 8.92 | -1.43 | 6.2 | 1 |
-| <span style="color:red">NATGAS</span>	| 5.0-6.77 | 5.96 | 0.81 | -0.96 | 0.8 | 19 |
-| <span style="color:green">GOLD</span>	| 1735.0-1833.0 | 1801.0 | 32.0 | -66.0 | 0.4 | 28 |
-| <span style="color:grey">COPPER</span>	| 3.59-3.95 | 3.88 | 0.07 | -0.29 | 0.2 | 33 |
-| <span style="color:green">Silver</span>	| 20.85-23.94 | 23.25 | 0.69 | -2.4 | 0.2 | 32 |
-| <span style="color:red">MSFT</span>	| 236.0-255.0 | 247.0 | 8.0 | -11.0 | 0.7 | 24 |
-| <span style="color:red">AAPL</span>	| 137.0-149.0 | 142.0 | 7.0 | -5.0 | 1. | 11 |
-| <span style="color:red">AMZN</span>	| 85.0-96.0 | 90.0 | 6.0 | -5.0 | 1. | 14 |
-| <span style="color:red">META</span>	| 102.0-126.0 | 115.0 | 11.0 | -13.0 | 0.8 | 18 |
-| <span style="color:red">GOOGL</span>	| 90.0-100.0 | 93.0 | 7.0 | -3.0 | 2.3 | 6 |
-| <span style="color:green">NFLX</span>	| 277.0-333.0 | 310.0 | 23.0 | -33.0 | 0. | 25 |
-| <span style="color:red">TSLA</span>	| 166.0-193.0 | 173.0 | 20.0 | -7.0 | 2.8 | 4 |
-| <span style="color:red">NYXBT</span>	| 16018.0-17430.0 | 16923.0 | 507.0 | -905.0 | 0.5 | 26 |
-
-
+| <span style="color:red">UST30Y</span>	| 3.32-3.81 | 3.56 | 0.25 | -0.24 | 1.04 | 18 |
+| <span style="color:red">UST10Y</span>	| 3.36-3.76 | 3.57 | 0.19 | -0.21 | 0.90 | 22 |
+| <span style="color:green">UST2Y</span>	| 4.2-4.52 | 4.33 | 0.19 | -0.13 | 1.46 | 9 |
+| <span style="color:red">HYG</span>	| 73.57-75.77 | 75.04 | 0.73 | -1.47 | 0.49 | 27 |
+| <span style="color:red">SPX</span>	| 3865.0-3998.0 | 3934.0 | 64.0 | -69.0 | 0.92 | 21 |
+| <span style="color:red">COMPQ</span>	| 10706.0-11329.0 | 11004.0 | 325.0 | -298.0 | 1.09 | 17 |
+| <span style="color:red">RUT</span>	| 1747.0-1855.0 | 1796.0 | 59.0 | -49.0 | 1.20 | 13 |
+| <span style="color:red">XLK</span>	| 126.0-135.0 | 130.0 | 5.0 | -4.0 | 1.2 | 10 |
+| <span style="color:green">XLP</span>	| 75.16-77.6 | 75.89 | 1.71 | -0.73 | 2.34 | 5 |
+| <span style="color:green">XLV</span>	| 135.0-141.0 | 137.0 | 4.0 | -2.0 | 2. | 7 |
+| <span style="color:green">ITA</span>	| 108.0-114.0 | 110.0 | 4.0 | -2.0 | 2. | 7 |
+| <span style="color:green">XLU</span>	| 69.29-72.1 | 70.83 | 1.27 | -1.54 | 0.82 | 23 |
+| <span style="color:grey">SSEC</span>	| 3108.0-3236.0 | 3179.0 | 57.0 | -71.0 | 0.80 | 24 |
+| <span style="color:green">NIKK</span>	| 27502.0-28246.0 | 27842.0 | 404.0 | -340.0 | 1.18 | 16 |
+| <span style="color:red">DAX</span>	| 14120.0-14569.0 | 14370.0 | 199.0 | -250.0 | 0.79 | 25 |
+| <span style="color:green">VIX</span>	| 19.82-25.08 | 22.83 | 2.25 | -3.01 | 0.74 | 26 |
+| <span style="color:green">USD</span>	| 104.05-108.26 | 104.8 | 3.46 | -0.75 | 4.61 | 2 |
+| <span style="color:red">EUR/USD</span>	| 1.017-1.061 | 1.053 | 0.008 | -0.036 | 0.22 | 31 |
+| <span style="color:green">USD/JPY</span>	| 134.13-140.7 | 136.68 | 4.02 | -2.55 | 1.57 | 8 |
+| <span style="color:red">GBP/USD</span>	| 1.177-1.237 | 1.23 | 0.007 | -0.053 | 0.13 | 34 |
+| <span style="color:red">CAD/USD</span>	| 0.727-0.749 | 0.733 | 0.016 | -0.006 | 2.66 | 4 |
+| <span style="color:red">WTIC</span>	| 70.03-80.38 | 71.02 | 9.36 | -0.99 | 9.45 | 1 |
+| <span style="color:red">NATGAS</span>	| 5.25-7.45 | 6.24 | 1.21 | -0.99 | 1.22 | 12 |
+| <span style="color:green">GOLD</span>	| 1743.0-1833.0 | 1810.0 | 23.0 | -67.0 | 0.34 | 29 |
+| <span style="color:grey">COPPER</span>	| 3.62-3.95 | 3.88 | 0.07 | -0.26 | 0.26 | 30 |
+| <span style="color:green">Silver</span>	| 21.17-24.15 | 23.72 | 0.43 | -2.55 | 0.16 | 32 |
+| <span style="color:red">MSFT</span>	| 236.0-256.0 | 245.0 | 11.0 | -9.0 | 1.22 | 12 |
+| <span style="color:red">AAPL</span>	| 137.0-148.0 | 142.0 | 6.0 | -5.0 | 1. | 15 |
+| <span style="color:red">AMZN</span>	| 84.0-95.0 | 89.0 | 6.0 | -5.0 | 1. | 15 |
+| <span style="color:red">META</span>	| 105.0-125.0 | 115.0 | 10.0 | -10.0 | 1. | 19 |
+| <span style="color:red">GOOGL</span>	| 89.0-100.0 | 92.0 | 8.0 | -3.0 | 2.66 | 4 |
+| <span style="color:green">NFLX</span>	| 284.0-333.0 | 320.0 | 13.0 | -36.0 | 0.36 | 28 |
+| <span style="color:red">TSLA</span>	| 165.0-192.0 | 179.0 | 13.0 | -14.0 | 0.92 | 20 |
+| <span style="color:red">NYXBT</span>	| 16105.0-17321.0 | 17170.0 | 151.0 | -1065.0 | 0.14 | 33 |
 
 <div class="datatable-end"></div>
 
-Volume Yesterday vs...: 
+TM Volume Yesterday vs...: 
 
-Prior Day: -7%
+- Prior Day: -8%
+- 1M Avg: -9%
+- 3M Avg: -14%
+- 1Y Avg: -25%
 
-1M Avg: -1%
+Ivol/Rvol Premium Discount Top/Bottom:
 
-3M Avg: -6%
+- Industrials: 17%
+- Energy: 16%
+- Healthcare: 9%
 
-1Y Avg: -18%
-
-**Key Levels**
-
-PDO:
-
-PDH:
-
-PDL:
-
-PDC:
-
-ONH:
-
-ONL:
-
-4408 - CW
-
-4208 - Major Overhead Resistance
-
-4110 - 12/1 high
-
-4107 - ZG
-
-4093.5 - Nov 2022 High
-
-4042.50 - Balance High
-
-4008 - Vol trigger
-
-3976.5 - 12/6 B Single Prints Fill
-
-3938.75 - Balance Low
-
-3921.5 - Prev Low
-
-3771 11/10 - CPI Gap - 0 Volume
-
-3767 - 11/10 Gap Fill
-
-3708 - PW
+- XLK: -26%
+- XLRE: -23%
+- XLY: -20%
 
 
+**ES Key Levels**
+
+- PDO:  3952
+- PDH:  3980
+- PDL:  3963
+- PDC:  3965
+- ONH:  3983
+- ONL:  3956
+- T2L:  3969
+- ONI: 60% Long
+- GEX FLIP:  3998
+
+## Trade Log
+
+**Summary**
+
+| Trade | Product | Quantity | Direction | Entry | Exit(s) | Comments | Result | Period |
+| Open | FXE 98p 3/23 | 1 | put | 97.38 | 1.90 | - | - | - |
+| RT | SPY 493p 2DTE | 1 | put | - | - | - | - $10 | A |
+| RT | SPY 493p 2DTE | 1 | put | - | - | - | + $4 | A |
+| Close | Meta | 20 | short cover | - | - | - | + 1.76% | A |
+| Close | TGT | 15 | short cover | - | - | - | + 2.48% | B |
+
+
+Thoughts:
+
+Very choppy morning with no real follow through either way.  Volume low.  I cleaned up a little on the short side where I was up.  Pair trade WMT/TGT working out very well.  Done early today as I have things to do.  ~ +$85 realized.  MSOS sucking bad, but SPX Beta weighted ~ -0.08 as I leave, hopefully setup to weather this week.
