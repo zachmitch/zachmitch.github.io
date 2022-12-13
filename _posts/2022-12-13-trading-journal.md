@@ -21,7 +21,7 @@ USD: 24%
 
 Major positions:  <span style="color:green">PLBY, MSOS, WMT</span><span style="color:red">  MPW, NVDA, GPS</span>
 
-Thoughts:  MSOS sold off hard yesterday. Omnibus likely not happening. Maybe we can get one more pump (hopium), as we just need the news to talk like it will for 2 days.  Portfolio was down 47 bps overall yesterday.  All eyes and ears on CPI / FOMC over the next two days.  My bed is made, hopefully I did it well.
+Thoughts:  MSOS sold off hard yesterday, on an up day. Omnibus has "over a 50% chance" according to the guy I'm trusting on this, McConnell vs Schumer is the battle. Whether it happens, maybe we can get one more pump (hopium), as we just need the news to talk like it will for 2 days.  Portfolio was down 47 bps overall yesterday.  All eyes and ears on CPI / FOMC over the next two days.  My bed is made, hopefully I did it well.
 
 
 **Key Events Today**
@@ -76,47 +76,61 @@ Thoughts:  MSOS sold off hard yesterday. Omnibus likely not happening. Maybe we 
 
 TM Volume Yesterday vs...: 
 
-- Prior Day: -8%
-- 1M Avg: -9%
-- 3M Avg: -14%
-- 1Y Avg: -25%
+- Prior Day: 13%
+- 1M Avg: 4%
+- 3M Avg: -1%
+- 1Y Avg: -15%
 
 Ivol/Rvol Premium Discount Top/Bottom:
 
-- Industrials: 17%
-- Energy: 16%
-- Healthcare: 9%
+- Energy: 10%
+- Staples: 7%
+- Financials: 7%
 
-- XLK: -26%
-- XLRE: -23%
-- XLY: -20%
+- XLK: -24%
+- XLRE: -22%
+- QQQ: -14%
 
 
 **ES Key Levels**
 
-- PDO:  3952
-- PDH:  3980
-- PDL:  3963
-- PDC:  3965
-- ONH:  3983
-- ONL:  3956
-- T2L:  3969
-- ONI: 60% Long
-- GEX FLIP:  3998
+- PDO:  3976
+- PDH:  4026
+- PDL:  3969
+- PDC:  4026
+- ONH:  4180
+- ONL:  4013
+- T2L:  3934
+- ONI: 100% Long
+- GEX FLIP:  4031
 
 ## Trade Log
 
 **Summary**
 
 | Trade | Product | Quantity | Direction | Entry | Exit(s) | Comments | Result | Period |
-| Open | FXE 98p 3/23 | 1 | put | 97.38 | 1.90 | - | - | - |
-| RT | SPY 493p 2DTE | 1 | put | - | - | - | - $10 | A |
-| RT | SPY 493p 2DTE | 1 | put | - | - | - | + $4 | A |
-| Close | Meta | 20 | short cover | - | - | - | + 1.76% | A |
-| Close | TGT | 50 | short cover | - | - | - | + 2.48% | B |
-| Close | WMT 125C Jan | 1 | call | - | - | - | + 80$ | - |
-| Open | OSTK | 10 | long | 22.44 | - | LT inc. position + | - | - |
+| Open | SPY | 8 | short | 401.25 | - | Before CPI release | - | Pre-market |
+| Close | SPY | 8 | cover | 408.69 | - | Ridiculous move | - | Pre-market |
+| Open | SPY 409C 1DTE | 3 | long | 3.42 | - | Catch short covering | - | A |
+| Close | SPY 409C 1DTE | 3 | long | 3.84 | - | Catch short covering | 12.2% | A |
+| Open | GPS 14P 185DTE | 4 | long | 1.97 | - | Peppering on shorts | - | A |
+| Close | WMT | 8 | long | 148.83 | - | Cutting longs on pop | 2% | A |
+| Close | PCT | 40 | long | 6.55 | - | Cutting longs on pop | 6% | A |
+| Open | META 120P 185DTE | 2 | long | 15.20 | - | - | - | B |
+| Open | MSFT 270P 185DTE | 1 | long | 24.25 | - | - | - | B |
+| Open | FXE 98P 94DTE | 1 | long | 24.25 | - | - | - | B |
+| Open | SPY 406P 1DTE | 1 | long | 3.95 | - | - | - | B |
+| Close | SPY 406P 1DTE | 1 | long | 4.14 | - | - | 4.8% | B |
+| Open | SPY 406C 1DTE | 1 | long | 3.98 | - | - | - | B |
+| Close | SPY 406C 1DTE | 1 | long | 3.81 | - | - | -4% | B |
+| Open | SPY 405C 1DTE | 2 | long | 3.69 | - | - | - | B |
+| Close | SPY 405C 1DTE | 2 | long | 3.94 | - | - | 6.7% | B |
+| Open | SPY 401C 1DTE | 1 | long | 3.88 | - | - | - | L |
+| Close | SPY 401C 1DTE | 1 | long | 4.31 | - | - | 11% | L |
+| Open | SPY 402P 1DTE | 1 | long | 3.77| - | - | - | M |
+| Close | SPY 402P 1DTE | 1 | long | 3.92 | - | - | 3.9% | M |
+
 
 Thoughts:
 
-Very choppy morning with no real follow through either way.  Volume low.  I cleaned up a little on the short side where I was up.  Pair trade WMT/TGT working out very well.  Done early today as I have things to do.  About +$260 realized.  MSOS sucking bad, but SPX Beta weighted ~ -0.31 as I raise more cash, hopefully setup to weather this week even.
+Overnight (1 hr before open) there was an extreme up move on CPI -0.2% lower than expected, FOMO is back.  Stop run - blew out the short stops from the last few days, up ~285 bps in the overnight.  Began scaling back into puts, while scalping intraday moves.  Big move down intraday, but still didn't clear the gap created by the positive CPI.  Tomorrow is JPow speech, for which I am now positioned pretty bearish after today.  Beta weighted at -8.73 to SPX.  -18 bps on the day, getting pulled down by MSOS.  
