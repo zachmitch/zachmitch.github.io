@@ -112,7 +112,7 @@ Ivol/Rvol Premium Discount Top/Bottom:
 **Summary**
 
 | Trade | Product | Quantity | Direction | Entry | Exit(s) | Comments | Result | Period |
-| RT | SPY 402P 1DTE | 5 | long | - | - | Before CPI release | -1.7% | A-F |
+| RT | SPY 402P 1DTE | 5 | long | 3.39 | 3.33 | Before CPI release | -1.7% | A-F |
 | Open | FXE 98p 93DTE | 3 | long | 1.35 | - | RTA | - | B |
 | Close | GPS 14p 184DTE | 4 | long | 1.98 | 2.14 | Before CPI release | 8% | F |
 | Close | GPS | 100 | covered short | 13.86 | 13.76 | Covering some shorts on down | 0.7% | J |
