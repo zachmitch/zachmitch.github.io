@@ -21,7 +21,7 @@ USD: 32%
 
 Major positions:  <span style="color:green">PLBY, MSOS, OSTK</span><span style="color:red">  MPW, W, FXE</span>
 
-Thoughts: Again not sure what to expect with OpEx.  Not a lot of follow through on the selling yesterday on really hawkish news. So let's trap some shorts - run stops - then get some juicy spots.  Some fear baked into the open today, $DXY / VIX / TNX up, and all at the LERR.  Those tech puts I sold at close are printing a bit more in the over night.  
+Thoughts: Again not sure what to expect with OpEx.  Not a lot of follow through on the selling yesterday on really hawkish news. So let's trap some shorts - run stops - then get some juicy spots.  Some fear baked into the open today, $DXY / VIX / TNX up, and all at the LERR.  Those tech puts I sold at close are printing a bit more in the over night.  Poor low in the overnight and everyone is super short.  Below T+2 close so expecting some margin call, but OpEx will keep it pinned.
 
 
 **Key Events Today**
@@ -106,7 +106,7 @@ Ivol/Rvol Premium Discount Top/Bottom:
 - ONH:  4044
 - ONL:  3978
 - T2C:  4023
-- ONI: 50/50
+- ONI: 93% short
 
 
 **Other data**
@@ -120,12 +120,22 @@ Ivol/Rvol Premium Discount Top/Bottom:
 **Summary**
 
 | Trade | Product | Quantity | Direction | Entry | Exit(s) | Comments | Result | Period |
-| RT | SPY 402P 1DTE | 5 | long | 3.39 | 3.33 | Before CPI release | -1.7% | A-F |
-
+| Open | GLD | 1 | long | 165.91 | - | Prepping to get in | - | Pre-market |
+| Close | W | 130 | covered short | 41.91 | 39.56 | Covering on red | 5.6% | A |
+| Close | NVDA | 10 | covered short | 169.98 | 169.42 | Covering on red | 0.3% | A |
+| RT | SPY 394C 1DTE | 50 | long | .75 | .43 | market didn't pop | -41% | - |
+| Open | WMT 120C 64DTE | 1 | long | 25.95 | - | Long XLP move | - | - |
+| Open | PLBY | 100 | long | 3.58 | - | Longterm pickup | - | - |
+| Open | PCT | 10 | long | 6.30 | - | Longterm pickup | - | - |
+| Open | OSTK | 20 | long | 20.85 | - | Longterm pickup | - | - |
+| Open | MP | 8 | long | 29.30 | - | Longterm pickup | - | - |
+| Close | MPW | 200 | covered short | 12.57 | 11.56 | Covering on red | 8% | - |
 
 
 
 Thoughts:
 
+I traded terribly today.  I was like the Atlanta Falcons in that super bowl where they lead 28 at halftime.  Came into today setup PERFECT.  But I was convinced we'd see a bounce to 3950 area (SPX) into OpEx, and kept buying into calls all the way down.  When it came back up to VWAP in the afternoon (twice), I still did not sell as I was waiting to get to my COST BASIS (so stupid).  The market doesn't care about my cost basis.  
 
+I ended the day -549 bps.  SPX beta 1.58.
  
