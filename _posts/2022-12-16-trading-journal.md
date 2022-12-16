@@ -116,9 +116,9 @@ Ivol/Rvol Premium Discount Top/Bottom:
 **Summary**
 
 | Trade | Product | Quantity | Direction | Entry | Exit(s) | Comments | Result | Period |
-| RT | QQQ 280C 0DTE | 46 | long | 0.075 | 0.03 | Trade | - | C-F |
-| Close | MSOS | 100 | long | 11.6 | 8.51 | Sell into the pop | - | B |
-| Close | MSOS 12C 35DTE | 16 | long | 1.61 | 0.75 | Sell into the pop | - | B |
+| RT | QQQ 280C 0DTE | 46 | long | 0.075 | 0.03 | Trade | -60% | C-F |
+| Close | MSOS | 100 | long | 11.6 | 8.51 | Sell into the pop | -26% | B |
+| Close | MSOS 12C 35DTE | 16 | long | 1.61 | 0.75 | Sell into the pop | -53% | B |
 | Open | MP | 40 | long | 28.75 | - | LT support, LT hold | - | H |
 | Open | OSTK | 10 | long | 20.51 | - | LT hold | - | H |
 | Open | WMT | 6 | long | 142.67 | - | Balance L/S | - | H |
