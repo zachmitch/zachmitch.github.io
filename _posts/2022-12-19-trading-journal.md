@@ -21,7 +21,7 @@ USD: 23%
 
 Major positions:  <span style="color:green">PLBY, WMT, MP</span><span style="color:red">  MPW, FXE, TGT</span>
 
-Thoughts: People that move this market are on vacation until EOY.  Overnight inventory is 100% long, expecting a down move to open with all the trapped longs above this level.
+Thoughts: People that move this market are on vacation until EOY.  Overnight inventory is 100% long, expecting a down move to open with all the trapped longs above this level.  Being as oversold as we are the past week, I do expect a bounce soon though.  I'll be looking to get in longer to XLP longs if we continue downward trend.
 
 
 **Key Events Today**
@@ -114,18 +114,25 @@ Ivol/Rvol Premium Discount Top/Bottom:
 **Summary**
 
 | Trade | Product | Quantity | Direction | Entry | Exit(s) | Comments | Result | Period |
-| RT | QQQ 280C 0DTE | 46 | long | 0.075 | 0.03 | Trade | -60% | C-F |
+| Close | HELE | 10 | cover short | 98.11 | 95.13 | Cover on red | 3.08% | D |
+| Open | GLD | 10 | long | 166.27 | - | - | 3.08% | D |
+| Open | IEF | 10 | long | 97.77 | - | Starter | - | D |
+| Open | WMT | 2 | long | 142.57 | - | - | - | E |
+| RT | QQQ 271C 4DTE | 1 | long | 2.8 | 2.48 | - | -11.4% | I-K |
+| Open | WMT 120C 11DTE | 1 | long | 12.05 | - | Get longer in XLP | - | K |
+| Close | TGT | 10 | Cover short | 145.96 | 144.0 | Cover some on red | 1.34% | L |
+| Open | MP | 10 | long | 27.52 | - | XLI LT hold | - | M |
+| Close | TGT | 10 | Cover short | 145.78 | 144.45 | Cover some on red | 0.9% | M |
 
 **EOD Portfolio**
 
-DoD Return:  bps
+DoD Return: -175 bps
 
-Beta weighted to SPX: 0.38
+Beta weighted to SPX: 2.4
 
-USD: 23%
+USD: 19%
 
-Major positions:  <span style="color:green">PLBY, WMT, MP</span><span style="color:red">  MPW, FXE, TGT</span>
+Major positions:  <span style="color:green">PLBY, WMT, GLD</span><span style="color:red">  MPW, FXE</span>
 
-Thoughts:
-
+Thoughts:  Got longer throughout the day, covering my retail shorts.  I bought some WMT expecting a pop in that safety stock.  Took a QQQ quicky that I cut quicker when it wasn't turning out.  With dealer positioning tomorrow, I expect a modest bounce on a "Turnaround Tuesday".    Both SPX/VIX were down today.
 
