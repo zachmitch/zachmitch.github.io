@@ -4,7 +4,7 @@ title: 2022-12-20 Trading Journal
 subtitle: 
 datatable: true
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/jack.png
+thumbnail-img: /assets/img/pancake.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
@@ -117,19 +117,26 @@ Ivol/Rvol Premium Discount Top/Bottom:
 **Summary**
 
 | Trade | Product | Quantity | Direction | Entry | Exit(s) | Comments | Result | Period |
-| Close | HELE | 10 | cover short | 98.11 | 95.13 | Cover on red | 3.08% | D |
+| Open | IEF | 10 | long | 97.11 | - | LT hold | - | A |
+| Open | TLT 100C 395DTE | 1 | long | 12.0 | - | LT hold | - | A |
+| Open | QQQ 368C 395DTE | 1 | long | 1.74 | 2.31 | LT hold | 32% | A |
+| Open | PCT | 100 | long | 6.14| - | LT hold | - | A |
+| Close | WMT 130C 10DTE | 1 | long | 12.05 | 13.30 | Sell some on green | 10.3% | B |
+| Close | MP| 50 | long | 28.75 | 28.62 | Close inflationary long on green | -0.04% | M |
 
 
 **EOD Portfolio**
 
-DoD Return:  bps
+DoD Return: +79 bps
 
-Beta weighted to SPX: 
+Beta weighted to SPX: -0.03
 
-USD: 
+USD: 16%
 
-Major positions:  <span style="color:green">PLBY, WMT, GLD</span><span style="color:red">  MPW, FXE</span>
+Major positions:  <span style="color:green">PLBY, WMT, OSTK</span><span style="color:red">  MPW, FXE</span>
 
 Thoughts:  
 
 Took another QQQ long runner that paid off well, still down overall on that strategy over the past week.  Selling was hitting an overnight zone and it wasn't strong (and we've extended to the downside for quite a while now), so expected SOME sort of a bounce.  Bought 100 PCT (cheap) for LT as they finished their first factory early -- according to Mike T this is a 40x over tail duration, so I'll leg in when I see opps.  Got some bonds for LT hold as this COULD be a bottom as gold is signalling lower yields from here (by not going down).  Sold my short dated WMT option on the pop, still carrying another for Feb.  Around 8, it was looking like we may have a trend day, so took another short-dated long QQQ.  I was wrong and sold immediately once it broke 3860.  Took a break in D period to do some studying.
+
+Coming back for the last hour I decide I want to be as flat as possible.  Since the macro outlook is disinflationary (deflationary maybe), I think materials mining companies that I own could continue to slide -- already having witnessed weakness in MPW & ALB for weeks now.  So sold down MP/ALB to starter positions and decided I'll wait and re-buy those cheaper (fingers crossed).

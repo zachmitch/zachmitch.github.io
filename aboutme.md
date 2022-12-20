@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: a few comments
+subtitle: a thought
 ---
 
 ### You have only two tools, will and patience.
