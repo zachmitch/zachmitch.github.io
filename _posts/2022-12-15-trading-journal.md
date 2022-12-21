@@ -4,7 +4,7 @@ title: 2022-12-15 Trading Journal
 subtitle: 
 datatable: true
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/hellmo.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
