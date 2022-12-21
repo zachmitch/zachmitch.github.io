@@ -119,6 +119,8 @@ Ivol/Rvol Premium Discount Top/Bottom:
 | Close | WMT | 12 | long | 143.33 | 145.25 | Cut small long on green | 1.3% | C |
 | Close | WMT 120C 58DTE | 1 | long | 25.95 | 26.83 | VIX LERR, cut long | 3.3% | D |
 | Close | PCT | 100 | long | 6.20 | 6.56 | Trim some on green | 5.8% | K |
+| Close | OSTK | 70 | long | 22.2 | 20.05 | Wasn't moving up on green | -9.6% | K |
+| RT | QQQ ATM P 2DTE | 1 | long | 2.18 | 2.43 | Wasn't moving up on green | 11.4% | K |
 
 
 
@@ -140,4 +142,4 @@ MPW didn't really partake in the move up, indicating a strong seller imo into an
 
 If I'm wrong I still have some longs to feed the ducks with as we go up.
 
-Sold all of my OSTK (accidental fatfinger, meant to trim down to starter).  On the big up move it was pretty down.  Should probably do the same with PLBY!  But I've been dumb about that one.  Trimmed some PCT in K bc buying falling off in the major indices and this was up.
+Sold all of my OSTK (accidental fatfinger, meant to trim down to starter).  On the big up move it was pretty down.  Should probably do the same with PLBY!  But I've been dumb about that one.  Trimmed some PCT in K bc buying falling off in the major indices and this was up.  Rolled out FXE puts to June.  PLBY is really disappointing right now.
