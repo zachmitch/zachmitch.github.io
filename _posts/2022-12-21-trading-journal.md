@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 2022-12-20 Trading Journal 
+title: 2022-12-21 Trading Journal 
 subtitle: 
 datatable: true
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/little_green.png
+thumbnail-img: /assets/img/pancake.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
