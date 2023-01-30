@@ -120,7 +120,7 @@ Ivol/Rvol Premium Discount Top/Bottom:
 | Close | WMT 120C 58DTE | 1 | long | 25.95 | 26.83 | VIX LERR, cut long | 3.3% | D |
 | Close | PCT | 100 | long | 6.20 | 6.56 | Trim some on green | 5.8% | K |
 | Close | OSTK | 70 | long | 22.2 | 20.05 | Wasn't moving up on green | -9.6% | K |
-| RT | QQQ ATM P 2DTE | 1 | long | 2.18 | 2.43 | Wasn't moving up on green | 11.4% | K |
+| RT | QQQ ATM P 2DTE | 1 | long | 2.18 | 2.43 | Trading practice | 11.4% | K |
 
 
 
