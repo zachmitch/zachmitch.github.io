@@ -21,7 +21,7 @@ USD: 6%
 
 Major positions:  <span style="color:green">N/A </span><span style="color:red"> MPW, IWM, QQQ</span>
 
-I reseigned myself to my thesis last week.  I am bearish and will commit to it.  Positioned with puts, the nearest expiry in June OpEx 2023.  I will now train on futures (sim) for a while, probably months, and develop the daytrading techniques while hopefully my bearish outlook pays off.  Simplicity, no longer have to worry.
+I reseigned myself to my short thesis last week.  I am bearish and will commit to it.  Positioned with puts, the nearest expiry in June OpEx 2023.  I will now train on futures (sim) for a while, probably months, and develop the daytrading techniques while hopefully my bearish outlook pays off.  When swinging, I will only touch Indices and sectors (save for MPW, which I think there is ample evidence of a possible fraud/bankrupcty/major re-rating)  Simplicity, no longer have to worry.
 
 
 **Key Events Today**
